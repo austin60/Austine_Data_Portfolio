@@ -1,4 +1,4 @@
-# Austine_Data_Portfolio
+# Austine Data Analysis Projects
 
 ## [Proj1. World Bank Data of Indian Economy since 1991](https://github.com/austin60/india_economy_since_1991/tree/main)
 This project contains critical economic indicators (Employment, Unemployment, Labor force etc.) and some social indicators (Population, birth rate, death rate etc.) of India since the inception of liberalisation, privatisation and globalisation in 1991 till 2016.
