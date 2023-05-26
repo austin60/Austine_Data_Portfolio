@@ -22,3 +22,9 @@ Dataset was obtained from kaggle.
 * Numpy
 * Pandas
 * Matplotlib
+
+## [Proj3. LinkedIn Data Analyst Jobs Webscrapping](https://github.com/austin60/Analyst_Jobs_Scrapping/blob/main/main.py)
+This is a webscrapping project meant to collect job scrapping jobs data from from a linkeIn site and save for further analysis
+
+### Skills applied
+* Selenium
